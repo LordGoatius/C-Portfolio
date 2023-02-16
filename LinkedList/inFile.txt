@@ -1,0 +1,46 @@
+Insert The very quick brown fox jumped over the very lazy dog.
+PrintList
+First
+Last
+Reverse
+Delete
+PrintList
+Drop
+PrintList
+First
+Last
+Remove very
+PrintList
+Reverse
+PrintList
+Delete
+PrintList
+Insert The
+Remove quick
+PrintList
+Remove The
+Append the
+Remove the
+PrintList
+Empty
+Clear
+Append The very quick brown fox jumped over the very lazy dog.
+PrintList
+Last
+Drop
+PrintList
+Clear
+Append one two three
+PrintList
+Last
+Drop
+PrintList
+Last
+Drop
+PrintList
+Last
+Drop
+PrintList
+Last
+Drop
+PrintList
